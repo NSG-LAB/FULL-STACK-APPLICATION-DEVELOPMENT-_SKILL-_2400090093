@@ -1,0 +1,20 @@
+# TEST.java Notes
+
+## Overview
+Simple Java program that demonstrates basic console output.
+
+## Key Components
+
+1. **Class Declaration**
+    - `public class TEST` - Main class with public access modifier
+
+2. **Main Method**
+    - `public static void main(String[] args)` - Entry point for program execution
+    - Static: Can run without creating an object instance
+    - void: Returns no value
+
+3. **Output Statement**
+    - `System.out.println()` - Prints text to console with newline
+    - Displays: "HELLO GIT FROM TEST MY NAME IS NALLAGORLA SIVA GANESH ID: 2400090093"
+
+## How to Run
